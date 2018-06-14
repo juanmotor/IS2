@@ -6,5 +6,5 @@ Gestor de Proyectos es una herramienta que sirve para el realizar el seguimiento
 
 ### Autores
 
-* ** Juan Ñunez ** - [IS2](https://github.com/juanmotor)
-* ** Ricardo Lopez ** - [IS2](https://github.com/ricardolopez19)
+* **Juan Nuñez** - [IS2](https://github.com/juanmotor)
+* **Ricardo Lopez** - [IS2](https://github.com/ricardolopez19)
